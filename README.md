@@ -5,7 +5,7 @@
 - 👀 I’m interested in frontend development and sustainability
 - 🌱 I’m currently learning HTML/CSS/Javascript and React.js
 - 📝 I'm new to learn about TypeScript and Redux(Very looking forward!) 
-- 📫 How to reach me [galmi.song](galmi.song@gmail.com)
+- 📫 How to reach me galmi.song@gmail.com
 - 👉 You can see more about me [in here](https://www.notion.so/garamsong/Garam-Song-fcce8961d2164627a46dcee9b6c991fb)
 
 ***
